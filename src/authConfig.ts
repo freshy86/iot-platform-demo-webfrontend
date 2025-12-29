@@ -5,7 +5,7 @@ export const msalConfig: Configuration = {
     auth: {
         clientId: "a86ffacb-4cbc-483c-b9ca-7942ed2e2fc4",
         authority: "https://svfriotdemo.ciamlogin.com/0484e3c3-e93f-4d52-bbb0-4af88d1c1b44",
-        redirectUri: "https://svfr-iot-fullstack-webfrontend-dwfrgpcbhgbmfugf.westeurope-01.azurewebsites.net/redirect",
+        redirectUri: "https://svfr-iot-fullstack-webfrontend.azurewebsites.net/redirect",
         postLogoutRedirectUri: "/",
     },
     system: {
